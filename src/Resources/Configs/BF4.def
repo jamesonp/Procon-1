@@ -305,6 +305,14 @@ procon.protected.weapons.add Support "U_XM25" Secondary ProjectileExplosive
 procon.protected.weapons.add Support "U_XM25_Flechette" Secondary Shotgun
 procon.protected.weapons.add Support "U_XM25_Smoke" Secondary Impact
 
+//Dragons Teeth
+procon.protected.weapons.add None "U_DesertEagle" Auxiliary Handgun
+procon.protected.weapons.add Assault "U_Bulldog" Primary AssaultRifle
+procon.protected.weapons.add Demolition "U_MPX" Primary SMG
+procon.protected.weapons.add Recon "U_CS5" Primary SniperRifle
+procon.protected.weapons.add Recon "U_SR338" Primary SniperRifle
+
+
 // Personal vehicles
 procon.protected.weapons.add None "XP1/Gameplay/Vehicles/KLR650/KLR650" Primary VehiclePersonal
 procon.protected.weapons.add None "Gameplay/Vehicles/QuadBike/QUADBIKE" Primary VehiclePersonal
